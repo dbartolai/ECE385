@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+WARNING: 0ns : none of the conditions were true for unique case from File:C:/Users/ryani/ECE385/vSim_tutorial/vSim_tutorial.srcs/sources_1/imports/design_source/compute.sv:14
+WARNING: 0ns : none of the conditions were true for unique case from File:C:/Users/ryani/ECE385/vSim_tutorial/vSim_tutorial.srcs/sources_1/imports/design_source/Router.sv:13
+WARNING: 0ns : none of the conditions were true for unique case from File:C:/Users/ryani/ECE385/vSim_tutorial/vSim_tutorial.srcs/sources_1/imports/design_source/Router.sv:23
+WARNING: 0ns : none of the conditions were true for unique case from File:C:/Users/ryani/ECE385/vSim_tutorial/vSim_tutorial.srcs/sources_1/imports/design_source/Control.sv:59
+WARNING: 230ns : none of the conditions were true for unique case from File:C:/Users/ryani/ECE385/vSim_tutorial/vSim_tutorial.srcs/sources_1/imports/design_source/Control.sv:59

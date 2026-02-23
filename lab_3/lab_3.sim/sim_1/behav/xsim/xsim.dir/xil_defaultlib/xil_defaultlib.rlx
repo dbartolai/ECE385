@@ -1,0 +1,16 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/ryani/ECE385/lab_3/lab_3.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sim_1/imports/sim_sources/testbench.sv,1771817348,systemVerilog,,,,testbench,,uvm,,,,,,
+C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/imports/design_source/adder_toplevel.sv,1771813036,systemVerilog,C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sim_1/imports/sim_sources/testbench.sv;C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/imports/design_source/hex_driver.sv;C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/imports/design_source/load_reg.sv;C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/imports/design_source/negedge_detector.sv;C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/imports/design_source/ripple_adder.sv;C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/imports/design_source/sync_debounce.sv;C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/new/cra_4.sv,C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/new/cra_4.sv,,$unit_adder_toplevel_sv_927989581;adder_toplevel,,uvm,,,,,,
+C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/imports/design_source/hex_driver.sv,1770397739,systemVerilog,,C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/imports/design_source/load_reg.sv,,hex_driver,,uvm,,,,,,
+C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/imports/design_source/load_reg.sv,1770397739,systemVerilog,,C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/imports/design_source/negedge_detector.sv,,load_reg,,uvm,,,,,,
+C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/imports/design_source/lookahead_adder.sv,1770840898,systemVerilog,,C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sim_1/imports/sim_sources/testbench.sv,,lookahead_adder,,uvm,,,,,,
+C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/imports/design_source/negedge_detector.sv,1770397739,systemVerilog,,C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/imports/design_source/ripple_adder.sv,,negedge_detector,,uvm,,,,,,
+C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/imports/design_source/ripple_adder.sv,1770761483,systemVerilog,,C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/imports/design_source/sync_debounce.sv,,ripple_adder,,uvm,,,,,,
+C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/imports/design_source/select_adder.sv,1770842523,systemVerilog,,C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sim_1/imports/sim_sources/testbench.sv,,select_adder,,uvm,,,,,,
+C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/imports/design_source/sync_debounce.sv,1770397739,systemVerilog,,C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sim_1/imports/sim_sources/testbench.sv,,sync_debounce,,uvm,,,,,,
+C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/new/cla_4.sv,1770839966,systemVerilog,,C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/imports/design_source/lookahead_adder.sv,,cla_4,,uvm,,,,,,
+C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/new/cra_4.sv,1770772304,systemVerilog,,C:/Users/ryani/ECE385/lab_3/lab_3.srcs/sources_1/imports/design_source/select_adder.sv,,ADDER4;full_adder,,uvm,,,,,,

@@ -1,0 +1,16 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/ryani/ECE385/LAB2_2/LAB2_2.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sim_1/imports/sim_sources/testbench.sv,1769552844,systemVerilog,,,,testbench,,uvm,,,,,,
+C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sim_1/imports/sim_sources/testbench_8.sv,1769552844,systemVerilog,,,,testbench8,,uvm,,,,,,
+C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/Control.sv,1769972939,systemVerilog,C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sim_1/imports/sim_sources/testbench_8.sv;C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/HexDriver.sv;C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/Processor.sv;C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/Reg_8.sv;C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/Register_unit.sv;C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/Router.sv;C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/Synchronizers.sv;C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/compute.sv,C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/HexDriver.sv,,$unit_Control_sv_519048831;control,,uvm,,,,,,
+C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/HexDriver.sv,1769552844,systemVerilog,,C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/Processor.sv,,HexDriver,,uvm,,,,,,
+C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/Processor.sv,1769973035,systemVerilog,,C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/Reg_8.sv,,Processor,,uvm,,,,,,
+C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/Reg_4.sv,1769552844,systemVerilog,,C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/Register_unit.sv,,reg_4,,uvm,,,,,,
+C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/Reg_8.sv,1769971402,systemVerilog,,C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/Register_unit.sv,,reg_8,,uvm,,,,,,
+C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/Register_unit.sv,1769972394,systemVerilog,,C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/Router.sv,,register_unit,,uvm,,,,,,
+C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/Router.sv,1769552844,systemVerilog,,C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/Synchronizers.sv,,router,,uvm,,,,,,
+C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/Synchronizers.sv,1769552844,systemVerilog,,C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/compute.sv,,sync_debounce,,uvm,,,,,,
+C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sources_1/imports/design_source/compute.sv,1769552844,systemVerilog,,C:/Users/ryani/ECE385/LAB2_2/LAB2_2.srcs/sim_1/imports/sim_sources/testbench_8.sv,,compute,,uvm,,,,,,

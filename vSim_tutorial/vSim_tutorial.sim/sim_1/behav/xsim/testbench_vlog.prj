@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../vSim_tutorial.srcs/sources_1/imports/design_source/Control.sv" \
+"../../../../vSim_tutorial.srcs/sources_1/imports/design_source/HexDriver.sv" \
+"../../../../vSim_tutorial.srcs/sources_1/imports/design_source/Processor.sv" \
+"../../../../vSim_tutorial.srcs/sources_1/imports/design_source/Reg_4.sv" \
+"../../../../vSim_tutorial.srcs/sources_1/imports/design_source/Register_unit.sv" \
+"../../../../vSim_tutorial.srcs/sources_1/imports/design_source/Router.sv" \
+"../../../../vSim_tutorial.srcs/sources_1/imports/design_source/Synchronizers.sv" \
+"../../../../vSim_tutorial.srcs/sources_1/imports/design_source/compute.sv" \
+"../../../../vSim_tutorial.srcs/sim_1/new/testbench.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

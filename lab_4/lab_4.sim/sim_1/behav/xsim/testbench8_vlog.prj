@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../lab_4.srcs/sources_1/new/HexDriver.sv" \
+"../../../../lab_4.srcs/sources_1/new/Synchronizers.sv" \
+"../../../../lab_4.srcs/sources_1/new/adder9.sv" \
+"../../../../lab_4.srcs/sources_1/new/control.sv" \
+"../../../../lab_4.srcs/sources_1/new/multiplier.sv" \
+"../../../../lab_4.srcs/sim_1/new/multiplier_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

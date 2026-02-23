@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/ryani/ECE385/lab_4/lab_4.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/ryani/ECE385/lab_4/lab_4.srcs/sim_1/new/multiplier_tb.sv,1771617496,systemVerilog,,,,testbench8,,uvm,,,,,,
+C:/Users/ryani/ECE385/lab_4/lab_4.srcs/sources_1/new/HexDriver.sv,1769552844,systemVerilog,C:/Users/ryani/ECE385/lab_4/lab_4.srcs/sim_1/new/multiplier_tb.sv;C:/Users/ryani/ECE385/lab_4/lab_4.srcs/sources_1/new/Synchronizers.sv;C:/Users/ryani/ECE385/lab_4/lab_4.srcs/sources_1/new/adder9.sv;C:/Users/ryani/ECE385/lab_4/lab_4.srcs/sources_1/new/control.sv;C:/Users/ryani/ECE385/lab_4/lab_4.srcs/sources_1/new/multiplier.sv,C:/Users/ryani/ECE385/lab_4/lab_4.srcs/sources_1/new/Synchronizers.sv,,$unit_HexDriver_sv_3799922933;HexDriver,,uvm,,,,,,
+C:/Users/ryani/ECE385/lab_4/lab_4.srcs/sources_1/new/Reg_8.sv,1769971402,systemVerilog,,C:/Users/ryani/ECE385/lab_4/lab_4.srcs/sources_1/new/Register_unit.sv,,reg_8,,uvm,,,,,,
+C:/Users/ryani/ECE385/lab_4/lab_4.srcs/sources_1/new/Register_unit.sv,1769972394,systemVerilog,,C:/Users/ryani/ECE385/lab_4/lab_4.srcs/sources_1/new/Synchronizers.sv,,register_unit,,uvm,,,,,,
+C:/Users/ryani/ECE385/lab_4/lab_4.srcs/sources_1/new/Synchronizers.sv,1769552844,systemVerilog,,C:/Users/ryani/ECE385/lab_4/lab_4.srcs/sources_1/new/adder9.sv,,sync_debounce,,uvm,,,,,,
+C:/Users/ryani/ECE385/lab_4/lab_4.srcs/sources_1/new/adder9.sv,1771271854,systemVerilog,,C:/Users/ryani/ECE385/lab_4/lab_4.srcs/sources_1/new/control.sv,,adder9;full_adder,,uvm,,,,,,
+C:/Users/ryani/ECE385/lab_4/lab_4.srcs/sources_1/new/control.sv,1771615577,systemVerilog,,C:/Users/ryani/ECE385/lab_4/lab_4.srcs/sources_1/new/multiplier.sv,,control,,uvm,,,,,,
+C:/Users/ryani/ECE385/lab_4/lab_4.srcs/sources_1/new/multiplier.sv,1771536610,systemVerilog,,C:/Users/ryani/ECE385/lab_4/lab_4.srcs/sim_1/new/multiplier_tb.sv,,multiplier;reset;shift,,uvm,,,,,,
